@@ -17,4 +17,5 @@ Comparative Analysis: Compared different workout types and their effectiveness.
 -How is BMI distributed across different age groups?
 -How does workout frequency correlate with calories burned and fat percentage?
 # DASHBOARD
-[Dashboard](https://github.com/AbolajiV/Fitness-Insights-Analysis/blob/main/Dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/23233ac1-7c47-4e73-bfe1-d694f1b5abc8)
+
