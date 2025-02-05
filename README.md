@@ -10,4 +10,10 @@ Power BI: Used for data cleaning, analysis, and creating interactive visualizati
 Descriptive Analysis: Summarized the basic features of the data.
 Trend Analysis: Identified trends in fitness metrics over time.
 Comparative Analysis: Compared different workout types and their effectiveness.
+# KPI Questions
+-What are the most effective workout types for burning calories?
+-How do resting and average BPM trends indicate potential health risks?
+-What are the peak gym usage times?
+-How is BMI distributed across different age groups?
+-How does workout frequency correlate with calories burned and fat percentage?
 
