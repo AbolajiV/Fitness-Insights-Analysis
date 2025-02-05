@@ -2,6 +2,9 @@
 # OVERVIEW
 This project involves creating an interactive dashboard for a gym house to analyze fitness metrics and behaviors of gym members. The goal is to leverage the provided dataset to identify trends, offer personalized recommendations, and enhance gym operations.
 
+# OBJECTIVE
+The primary objective of this project is to leverage the provided dataset to analyze gym members' fitness metrics and behaviors. The goal is to offer actionable insights and personalized recommendations to enhance member satisfaction, improve health outcomes, and optimize gym operations.
+
 # DATA SOURCE
 This data was gotten from kaggle
 [download here](https://www.kaggle.com/datasets/nadeemajeedch/fitness-tracker-dataset)
