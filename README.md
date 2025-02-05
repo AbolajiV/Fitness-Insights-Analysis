@@ -16,4 +16,5 @@ Comparative Analysis: Compared different workout types and their effectiveness.
 -What are the peak gym usage times?
 -How is BMI distributed across different age groups?
 -How does workout frequency correlate with calories burned and fat percentage?
-
+# DASHBOARD
+[Fitness Insights Dashboard](
