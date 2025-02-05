@@ -29,6 +29,7 @@ Bar Chart
 Insight: Strength workouts burn the most calories on average.
 Line Chart: Avg_BPM and Resting_BPM Trends by Experience Level
 Insight: An increasing trend in resting BPM may indicate overtraining or health issues.
+
 # STEPS AND RECOMMENDATIONS
 Data Preparation:
 Imported the dataset into Power BI.
