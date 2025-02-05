@@ -4,3 +4,10 @@ This project involves creating an interactive dashboard for a gym house to analy
 # DATA SOURCE
 This data was gotten from kaggle
 [download here](https://www.kaggle.com/datasets/nadeemajeedch/fitness-tracker-dataset)
+# TOOL
+Power BI: Used for data cleaning, analysis, and creating interactive visualizations.
+# TYPE OF ANALYSIS
+Descriptive Analysis: Summarized the basic features of the data.
+Trend Analysis: Identified trends in fitness metrics over time.
+Comparative Analysis: Compared different workout types and their effectiveness.
+
